@@ -10,3 +10,21 @@
 
 <img width="957" height="443" alt="image" src="https://github.com/user-attachments/assets/4cca5ca7-5728-40ba-9e7e-2dd3e21677cf" />
 
+<img width="937" height="458" alt="image" src="https://github.com/user-attachments/assets/884f5493-6970-409f-8ce2-f3cbfc8ee877" />
+
+<img width="852" height="295" alt="image" src="https://github.com/user-attachments/assets/67ed647b-8378-44e4-ac5f-1dff64d38327" />
+
+<img width="623" height="297" alt="image" src="https://github.com/user-attachments/assets/ad74efdf-02a1-4a45-a0c5-de6313f24943" />
+
+<img width="934" height="373" alt="image" src="https://github.com/user-attachments/assets/68a87bbf-fa30-4225-8141-e4bbebba6049" />
+
+## POST API to add details to existing data 
+
+<img width="653" height="356" alt="image" src="https://github.com/user-attachments/assets/7da11d0c-c428-4ed0-bee2-1bb5fe68bd0a" />
+
+## * says which are mandatory columns required
+
+<img width="944" height="392" alt="image" src="https://github.com/user-attachments/assets/ff04c824-34c6-4c7f-84f0-e734c43db5a8" />
+
+<img width="945" height="436" alt="image" src="https://github.com/user-attachments/assets/0b1fe601-a7f0-460c-abf1-78c18e6952b2" />
+
